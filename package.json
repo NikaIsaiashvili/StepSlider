@@ -1,5 +1,5 @@
 {
-  "name": "portfolio_web_page",
+  "name": "stepslider",
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel public/index.html",
